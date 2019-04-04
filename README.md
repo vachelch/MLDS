@@ -38,7 +38,7 @@ For more details, please browse this [course website](http://speech.ee.ntu.edu.t
 
 ### 4. Deep Reinforcement Learning
 * Pong
-<img src="./images/Pong.gif" width="50%" display = "block" margin = "auto 0 auto 0">
+<img src="./images/Pong.gif" width="50%" display = "block" margin = "0 auto 0 auto">
 * Breakout
-<img src="./images/Breakout.gif" width="50%" display = "block" margin = "auto 0 auto 0">
+<img src="./images/Breakout.gif" width="50%" display = "block" margin = "0 auto 0 auto">
 
