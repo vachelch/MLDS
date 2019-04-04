@@ -28,7 +28,7 @@ For more details, please browse this [course website](http://speech.ee.ntu.edu.t
       * Actor-Critic
 
 ## Task visualization
-### 3.1 Image Generation
+#### 3.1 Image Generation
 <img src="./images/gan.png" display = "block" margin = "auto 0 auto 0">
    
 ### 3.2 Text-to-Image Generation
@@ -36,9 +36,9 @@ For more details, please browse this [course website](http://speech.ee.ntu.edu.t
    |:------------:|:-------------------------------------:|
    |blue hair blue eyes<br><br><br>blue hair green eyes<br><br><br>blue hair red eyes<br><br><br>green hair blue eyes<br><br><br>green hair red eyes|<img src="./images/cgan.png" width="100%">|
 
-### 4. Deep Reinforcement Learning
+#### 4. Deep Reinforcement Learning
 * Pong
 <img src="./images/Pong.gif" width="50%" display = "block" margin = "0 auto 0 auto">
 * Breakout
-<img src="./images/Breakout.gif" width="50%" display = "block" margin-left = "auto" margin-right = "auto">
+<img src="./images/Breakout.gif" width="42" display = "block" margin-left = "auto" margin-right = "auto">
 
