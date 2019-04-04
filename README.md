@@ -40,5 +40,5 @@ For more details, please browse this [course website](http://speech.ee.ntu.edu.t
 * Pong
 <img src="./images/Pong.gif" width="50%" display = "block" margin = "0 auto 0 auto">
 * Breakout
-<img src="./images/Breakout.gif" width="50%" display = "block" margin = "0 auto 0 auto">
+<img src="./images/Breakout.gif" width="50%" display = "block" margin-left = "auto" margin-right = "auto">
 
