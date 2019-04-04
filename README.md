@@ -41,10 +41,6 @@ For more details, please browse this [course website](http://speech.ee.ntu.edu.t
 
 #### 4. Deep Reinforcement Learning
 * Pong
-<p align="center">
    <img src="./images/Pong.gif" width="25%" height="50%">
-</p>
 * Breakout
-<p align="center">
    <img src="./images/Breakout.gif" width="25%">
-</p>
