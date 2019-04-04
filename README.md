@@ -34,11 +34,11 @@ For more details, please browse this [course website](http://speech.ee.ntu.edu.t
 ### 3.2 Text-to-Image Generation
    | Testing Tags |./images/cgan.png|
    |:------------:|:-------------------------------------:|
-   |blue hair blue eyes<br><br><br>blue hair green eyes<br><br><br>blue hair red eyes<br><br><br>green hair blue eyes<br><br><br>green hair red eyes|<img src="./images/cgan.png" width="60%">|
+   |blue hair blue eyes<br><br><br>blue hair green eyes<br><br><br>blue hair red eyes<br><br><br>green hair blue eyes<br><br><br>green hair red eyes|<img src="./images/cgan.png" width="80%">|
 
 #### 4. Deep Reinforcement Learning
 * Pong
-<img src="./images/Pong.gif" width="25%" height="80%">
+<img src="./images/Pong.gif" width="25%" height="50%">
 * Breakout
 <img src="./images/Breakout.gif" width="25%">
 
