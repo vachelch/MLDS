@@ -29,16 +29,24 @@ For more details, please browse this [course website](http://speech.ee.ntu.edu.t
 
 ## Task visualization
 #### 3.1 Image Generation
-<img src="./images/gan.png" width="60%">
+<p align="center">
+  <img src="./images/gan.png" width="60%">
+</p>
+
    
 ### 3.2 Text-to-Image Generation
+<p align="center">
    | Testing Tags |./images/cgan.png|
    |:------------:|:-------------------------------------:|
-   |blue hair blue eyes<br><br><br>blue hair green eyes<br><br><br>blue hair red eyes<br><br><br>green hair blue eyes<br><br><br>green hair red eyes|<img src="./images/cgan.png" width="80%">|
+   |blue hair blue eyes<br><br><br>blue hair green eyes<br><br><br>blue hair red eyes<br><br><br>green hair blue eyes<br><br><br>green hair red eyes|<img src="./images/cgan.png" width="100%">|
+</p>
 
 #### 4. Deep Reinforcement Learning
 * Pong
-<img src="./images/Pong.gif" width="25%" height="50%">
+<p align="center">
+   <img src="./images/Pong.gif" width="25%" height="50%">
+</p>
 * Breakout
-<img src="./images/Breakout.gif" width="25%">
-
+<p align="center">
+   <img src="./images/Breakout.gif" width="25%">
+</p>
