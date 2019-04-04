@@ -29,9 +29,7 @@ For more details, please browse this [course website](http://speech.ee.ntu.edu.t
 
 ## Task visualization
 #### 3.1 Image Generation
-<p align="center">
-  <img src="./images/gan.png" width="60%">
-</p>
+<img src="./images/gan.png" width="60%">
 
    
 ### 3.2 Text-to-Image Generation
@@ -41,6 +39,6 @@ For more details, please browse this [course website](http://speech.ee.ntu.edu.t
 
 #### 4. Deep Reinforcement Learning
 * Pong
-   <img src="./images/Pong.gif" width="25%" height="50%">
+<img src="./images/Pong.gif" width="25%" height="50%">
 * Breakout
-   <img src="./images/Breakout.gif" width="25%">
+<img src="./images/Breakout.gif" width="25%">
